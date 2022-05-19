@@ -1,1 +1,0 @@
-{"ast":null,"code":"const url = process.env.SERVER_URL;\nexport const getContactEmails = `${url}/contact-emails?_start=0&_limit=100000`;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,1 +1,0 @@
-{"ast":null,"code":"var url = process.env.SERVER_URL;\nexport var getTrainings = \"\".concat(url, \"/formations?_start=0&_limit=100000\");\nexport var getTraining = function getTraining(id) {\n  return \"\".concat(url, \"/formations/\").concat(id);\n};","map":null,"metadata":{},"sourceType":"module"}

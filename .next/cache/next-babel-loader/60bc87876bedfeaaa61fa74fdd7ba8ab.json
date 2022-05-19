@@ -1,1 +1,0 @@
-{"ast":null,"code":"import Text from './Text';\nexport { Text };","map":{"version":3,"sources":["/Users/adriengrampone/Documents/A&F/mobin/frontend/components/global/text/index.js"],"names":["Text"],"mappings":"AAAA,OAAOA,IAAP,MAAiB,QAAjB;AACA,SAASA,IAAT","sourcesContent":["import Text from './Text'\nexport { Text }"]},"metadata":{},"sourceType":"module"}

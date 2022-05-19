@@ -1,1 +1,0 @@
-{"ast":null,"code":"const sendinblue_create_contact = require('../../api/sendinblue-createContact');\n\nexport default function handler(req, res) {\n  const {\n    email = \"\"\n  } = req.body;\n  sendinblue_create_contact(email);\n  res.send('success');\n}","map":null,"metadata":{},"sourceType":"module"}

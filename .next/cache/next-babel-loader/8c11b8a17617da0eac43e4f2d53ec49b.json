@@ -1,1 +1,0 @@
-{"ast":null,"code":"const url = process.env.SERVER_URL;\nexport const getResources = `${url}/ressources-thematiques?_start=0&_limit=100000`;","map":null,"metadata":{},"sourceType":"module"}

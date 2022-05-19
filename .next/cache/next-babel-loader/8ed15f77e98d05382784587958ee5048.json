@@ -1,1 +1,0 @@
-{"ast":null,"code":"const url = process.env.SERVER_URL;\nexport const getNews = `${url}/articles?_start=0&_limit=100000`;\nexport const getNewsItem = id => `${url}/articles/${id}`;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,1 +1,0 @@
-{"ast":null,"code":"import Footer from './Footer';\nexport { Footer };","map":{"version":3,"sources":["/Users/adriengrampone/Documents/A&F/mobin/frontend/components/layout/Footer/index.js"],"names":["Footer"],"mappings":"AAAA,OAAOA,MAAP,MAAmB,UAAnB;AACA,SAASA,MAAT","sourcesContent":["import Footer from './Footer'\nexport { Footer }"]},"metadata":{},"sourceType":"module"}

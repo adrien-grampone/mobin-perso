@@ -1,1 +1,0 @@
-{"ast":null,"code":"export var API_URL = \"https://mobin-server.herokuapp.com\";","map":{"version":3,"sources":["/Users/adriengrampone/Documents/A&F/mobin/frontend/utils/api/api-url.js"],"names":["API_URL"],"mappings":"AAAA,OAAO,IAAMA,OAAO,GAAG,oCAAhB","sourcesContent":["export const API_URL = \"https://mobin-server.herokuapp.com\"\n"]},"metadata":{},"sourceType":"module"}

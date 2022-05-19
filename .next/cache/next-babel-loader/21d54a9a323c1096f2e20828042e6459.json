@@ -1,1 +1,0 @@
-{"ast":null,"code":"export * from './region-filters';","map":{"version":3,"sources":["/Users/adriengrampone/Documents/A&F/mobin/frontend/components/filters/index.js"],"names":[],"mappings":"AAAA,cAAc,kBAAd","sourcesContent":["export * from './region-filters'"]},"metadata":{},"sourceType":"module"}

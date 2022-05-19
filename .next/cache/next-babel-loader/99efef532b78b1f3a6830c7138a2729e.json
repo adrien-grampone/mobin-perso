@@ -1,1 +1,0 @@
-{"ast":null,"code":"import DownloadDocumentSection from './DownloadDocumentSection';\nimport PrivateDocumentsCard from './PrivateDocumentsCard';\nexport { DownloadDocumentSection, PrivateDocumentsCard };","map":null,"metadata":{},"sourceType":"module"}

@@ -1,1 +1,0 @@
-{"ast":null,"code":"const url = process.env.SERVER_URL;\nexport const getTrainings = `${url}/formations?_start=0&_limit=100000`;\nexport const getTraining = id => `${url}/formations/${id}`;","map":null,"metadata":{},"sourceType":"module"}

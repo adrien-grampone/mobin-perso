@@ -1,1 +1,0 @@
-{"ast":null,"code":"import Header from './Header';\nexport { Header };","map":{"version":3,"sources":["/Users/adriengrampone/Documents/A&F/mobin/frontend/components/layout/Header/index.js"],"names":["Header"],"mappings":"AAAA,OAAOA,MAAP,MAAmB,UAAnB;AACA,SAASA,MAAT","sourcesContent":["import Header from './Header'\nexport { Header }"]},"metadata":{},"sourceType":"module"}

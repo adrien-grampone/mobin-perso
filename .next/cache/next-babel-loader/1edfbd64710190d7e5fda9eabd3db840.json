@@ -1,1 +1,0 @@
-{"ast":null,"code":"export var API_URL = \"http://localhost:1337\";","map":{"version":3,"sources":["/Users/adriengrampone/Documents/A&F/mobin/frontend/utils/api/api-url.js"],"names":["API_URL"],"mappings":"AAAA,OAAO,IAAMA,OAAO,GAAG,uBAAhB","sourcesContent":["export const API_URL = \"http://localhost:1337\"\n"]},"metadata":{},"sourceType":"module"}
