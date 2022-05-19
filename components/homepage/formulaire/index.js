@@ -1,2 +1,2 @@
-import FormulaireMobin from './formulaireMobin'
+import FormulaireMobin from './FormulaireMobin'
 export { FormulaireMobin }
