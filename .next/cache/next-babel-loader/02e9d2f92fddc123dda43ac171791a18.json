@@ -1,0 +1,1 @@
+{"ast":null,"code":"import MoveCard from './MoveCard';\nexport { MoveCard };","map":{"version":3,"sources":["/Users/adriengrampone/Desktop/mobin-front-git/components/card/MoveCard/index.js"],"names":["MoveCard"],"mappings":"AAAA,OAAOA,QAAP,MAAqB,YAArB;AACA,SAASA,QAAT","sourcesContent":["import MoveCard from './MoveCard'\nexport { MoveCard }"]},"metadata":{},"sourceType":"module"}

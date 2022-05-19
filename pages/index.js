@@ -4,7 +4,8 @@ import Container from '@material-ui/core/Container';
 import Link from 'next/link'
 import { makeStyles } from '@material-ui/core/styles';
 
-import { Banner, Layout, FiguresSection, NewsSection, NewsletterSection, BlocsAccueil, Title, Text, Icon, FormulaireMobin } from "../components"
+import { Banner, Layout, FiguresSection, NewsSection, NewsletterSection, BlocsAccueil, Title, Text, Icon } from "../components"
+ // ajouter dans l'import FormulaireMobin
 import { getNews } from '../utils'
 
 const useStyles = makeStyles((theme) => ({
@@ -131,9 +132,9 @@ const Home = ({ news = [] }) => {
             </Grid>
                 </Grid>*/}
         </section>
-        <section id="formulaires">
+        {/*<section id="formulaires">
           <FormulaireMobin />
-        </section>
+              </section>*/}
         <section id="figures">
           <FiguresSection />
         </section>
