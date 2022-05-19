@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Text from './Text';\nexport { Text };","map":null,"metadata":{},"sourceType":"module"}

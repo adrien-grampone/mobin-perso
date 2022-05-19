@@ -1,0 +1,1 @@
+{"ast":null,"code":"var url = process.env.SERVER_URL;\nexport var getNews = \"\".concat(url, \"/articles?_start=0&_limit=100000\");\nexport var getNewsItem = function getNewsItem(id) {\n  return \"\".concat(url, \"/articles/\").concat(id);\n};","map":null,"metadata":{},"sourceType":"module"}

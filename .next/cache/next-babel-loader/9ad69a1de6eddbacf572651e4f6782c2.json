@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\n\nconst Icon = ({\n  src,\n  maxWidth\n}) => {\n  return /*#__PURE__*/_jsx(\"img\", {\n    style: {\n      maxWidth: maxWidth ? maxWidth : '150px'\n    },\n    src: src\n  });\n};\n\nexport default Icon;","map":null,"metadata":{},"sourceType":"module"}

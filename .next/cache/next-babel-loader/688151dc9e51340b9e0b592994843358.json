@@ -1,0 +1,1 @@
+{"ast":null,"code":"var url = process.env.SERVER_URL;\nexport var getRevuesPresse = \"\".concat(url, \"/presse-revues?_start=0&_limit=100000\");\nexport var getCommuniquesPresse = \"\".concat(url, \"/presse-communiques?_start=0&_limit=100000\");","map":null,"metadata":{},"sourceType":"module"}

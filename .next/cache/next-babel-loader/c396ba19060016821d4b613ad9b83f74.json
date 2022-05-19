@@ -1,0 +1,1 @@
+{"ast":null,"code":"var url = process.env.SERVER_URL;\nexport var getNewsletters = \"\".concat(url, \"/newsletters?_start=0&_limit=100000\");","map":null,"metadata":{},"sourceType":"module"}

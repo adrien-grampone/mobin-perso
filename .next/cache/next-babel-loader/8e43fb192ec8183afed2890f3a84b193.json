@@ -1,0 +1,1 @@
+{"ast":null,"code":"// log the pageview with their URL\nexport const pageview = url => {\n  window.gtag(\"config\", process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS, {\n    page_path: url\n  });\n}; // log specific events happening.\n\nexport const event = ({\n  action,\n  params\n}) => {\n  window.gtag(\"event\", action, params);\n};","map":null,"metadata":{},"sourceType":"module"}

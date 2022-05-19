@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Layout from './Layout';\nexport { Layout };","map":{"version":3,"sources":["/Users/adriengrampone/Documents/A&F/mobin/frontend/components/layout/Layout/index.js"],"names":["Layout"],"mappings":"AAAA,OAAOA,MAAP,MAAmB,UAAnB;AACA,SAASA,MAAT","sourcesContent":["import Layout from './Layout'\nexport { Layout }"]},"metadata":{},"sourceType":"module"}

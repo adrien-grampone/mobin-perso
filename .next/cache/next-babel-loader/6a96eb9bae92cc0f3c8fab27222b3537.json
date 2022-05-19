@@ -1,0 +1,1 @@
+{"ast":null,"code":"var url = process.env.SERVER_URL;\nexport var getAdherents = \"\".concat(url, \"/adherents?_start=0&_limit=100000\");\nexport var getAdherent = function getAdherent(id) {\n  return \"\".concat(url, \"/adherents/\").concat(id);\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from './menu-items';\nexport * from './footer-items';","map":{"version":3,"sources":["/Users/adriengrampone/Documents/A&F/mobin/frontend/utils/menu/index.js"],"names":[],"mappings":"AAAA,cAAc,cAAd;AACA,cAAc,gBAAd","sourcesContent":["export * from './menu-items'\nexport * from './footer-items'"]},"metadata":{},"sourceType":"module"}

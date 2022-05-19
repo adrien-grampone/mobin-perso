@@ -1,0 +1,6 @@
+export * from './banner'
+export * from './figures'
+export * from './news'
+export * from './blocsAccueil'
+export * from './formulaire'
+export * from './newsletter'
